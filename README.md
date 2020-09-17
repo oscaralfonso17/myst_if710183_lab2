@@ -1,4 +1,4 @@
-# Lab 1: Discretionary Trading
+# Lab 2: Discretionary Trading
 
 ## Purpose and Expected Results
 *Insert here a brief description of the project, including, purpose, technologies used and context 
