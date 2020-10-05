@@ -1,20 +1,15 @@
 # Lab 2: Discretionary Trading
 
 ## Purpose and Expected Results
-*Insert here a brief description of the project, including, purpose, technologies used and context 
-where it was created.*
+*What are the fundamental characteristics of discretionary trading?*
 
-## Install dependencies
+## Laboratory case
 
-Install all the dependencies stated in the requirements.txt file, just run the following command in terminal:
+You have just started working at a bank and they assign you a capital of $ 100,000 dollars to carry out a Discretionary-Systematic Trading process, and, eventually, determine the components that do serve to turn it into an algorithmic trading system. They give you the freedom to choose the market in which you will be trading, and that all decisions are made at your discretion, only that you have a trading log with information that justifies your decisions. Also, they ask you to separate each decision into 3 aspects: 1) How did you choose the asset and how did you choose the position (buy or sell)? How do you choose when you will take losses and when you will take profits? And finally , What will be the way in which you will use the capital during the period you trade?
 
-        pip install -r requirements.txt
-        
-Or you can manually install one by one using the name and version in the file.
+## Expected results
 
-## Funcionalities
-
-*Add here examples of core functionalities for the project in this repository.*
+For a defined period, which will be the duration of the laboratory, you must carry out at least 1 daily operation and write the 3 criteria in the trading log. As a Financial Engineering professional the account is therefore expected to perform positively.
 
 ## Author
 Oscar Alfonso Flores Orozco.
